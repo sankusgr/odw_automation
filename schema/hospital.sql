@@ -37,3 +37,7 @@ ddd TEXT,
 kl VARCHAR
 );
 
+CREATE TABLE asd(
+ssss VARCHAR
+);
+
