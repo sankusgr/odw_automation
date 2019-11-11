@@ -49,3 +49,7 @@ fn4 FLOAT
 );
 
 
+CREATE TABLE ccc(
+dad VARCHAR
+);
+
