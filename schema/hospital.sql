@@ -57,3 +57,9 @@ CREATE TABLE ccc(
 ddd TEXT
 );
 
+CREATE TABLE ccc(
+dad INTEGER NOT NULL,
+ssd BOOLEAN,
+ddd TIMESTAMP
+);
+
