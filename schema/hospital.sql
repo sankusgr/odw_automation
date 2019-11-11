@@ -26,3 +26,9 @@ gh BLOB,
 jhjk VARCHAR
 );
 
+CREATE TABLE asd(
+ddd BOOLEAN,
+sfd FLOAT,
+kjlk BLOB
+);
+
