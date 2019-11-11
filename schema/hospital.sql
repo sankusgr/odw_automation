@@ -32,3 +32,8 @@ sfd FLOAT,
 kjlk BLOB
 );
 
+CREATE TABLE asd(
+ddd TEXT,
+kl VARCHAR
+);
+
