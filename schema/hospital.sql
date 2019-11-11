@@ -18,3 +18,5 @@ CREATE TABLE h_keys(
    h_unit_id VARCHAR(255) NOT NULL,
    descriptions VARCHAR(1000) NOT NULL
 );
+CREATE TABLE ccc(dad Blob);
+
