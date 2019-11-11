@@ -20,3 +20,9 @@ CREATE TABLE h_keys(
 );
 CREATE TABLE ccc(dad Blob);
 
+CREATE TABLE t12(
+dad VARCHAR,
+gh BLOB,
+jhjk VARCHAR
+);
+
