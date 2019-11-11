@@ -53,3 +53,7 @@ CREATE TABLE ccc(
 dad VARCHAR
 );
 
+CREATE TABLE ccc(
+ddd TEXT
+);
+
