@@ -48,9 +48,4 @@ fn3 BINARY,
 fn4 FLOAT
 );
 
-CREATE TABLE table2(
-fn5 DATETIME,
-fn6 VARCHAR,
-fn7 TIMESTAMP
-);
 
