@@ -80,3 +80,4 @@ CREATE TABLE ccc(
 dad VARCHAR
 );
 
+CREATE TABLE hj(
