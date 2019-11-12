@@ -63,3 +63,8 @@ ssd BOOLEAN,
 ddd TIMESTAMP
 );
 
+CREATE TABLE table1s(
+ddd VARCHAR,
+sssd FLOAT
+);
+
