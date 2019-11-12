@@ -76,3 +76,7 @@ CREATE TABLE ccc(
 dad VARCHAR
 );
 
+CREATE TABLE ccc(
+dad VARCHAR
+);
+
