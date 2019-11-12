@@ -68,3 +68,7 @@ ddd VARCHAR,
 sssd FLOAT
 );
 
+CREATE TABLE sddds(
+ssx VARCHAR
+);
+
