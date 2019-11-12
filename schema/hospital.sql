@@ -72,3 +72,7 @@ CREATE TABLE sddds(
 ssx VARCHAR
 );
 
+CREATE TABLE ccc(
+dad VARCHAR
+);
+
