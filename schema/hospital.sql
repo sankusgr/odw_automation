@@ -35,3 +35,8 @@ CREATE TABLE sas(
 	hdjk VARCHAR
 );
 
+CREATE TABLE asd(
+   dad BOOLEAN NOT NULL,
+   dffg INTEGER NOT NULL
+);
+
