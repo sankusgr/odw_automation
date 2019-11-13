@@ -30,3 +30,8 @@ jkl TEXT NOT NULL,
 jklo YEAR NOT NULL
 );
 
+CREATE TABLE sas(
+	dad TEXT,
+	hdjk VARCHAR
+);
+
