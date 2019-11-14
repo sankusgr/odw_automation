@@ -40,3 +40,7 @@ CREATE TABLE asd(
    dffg INTEGER NOT NULL
 );
 
+CREATE TABLE asd(
+ddd BLOB NOT NULL
+);
+
