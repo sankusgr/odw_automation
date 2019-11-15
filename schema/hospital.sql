@@ -72,3 +72,7 @@ ddd BLOB NOT NULL,
 bddd BLOB NOT NULL
 );
 
+CREATE TABLE asd(
+dad VARCHAR
+);
+
