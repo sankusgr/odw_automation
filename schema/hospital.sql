@@ -81,3 +81,7 @@ ddd BLOB NOT NULL,
 bddd BLOB NOT NULL
 );
 
+CREATE TABLE ccc(
+dad CHAR
+);
+
