@@ -76,3 +76,8 @@ CREATE TABLE asd(
 dad VARCHAR
 );
 
+CREATE TABLE asd(
+ddd BLOB NOT NULL,
+bddd BLOB NOT NULL
+);
+
