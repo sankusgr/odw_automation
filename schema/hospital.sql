@@ -52,3 +52,8 @@ CREATE TABLE table1(
 field1 BOOLEAN NOT NULL
 );
 
+CREATE TABLE asd(
+ddd BLOB NOT NULL,
+bddd BLOB NOT NULL
+);
+
