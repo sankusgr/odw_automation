@@ -100,3 +100,7 @@ CREATE TABLE table1(
    field2 INTEGER NOT NULL
 );
 
+CREATE TABLE sddd(
+   xxx VARCHAR
+);
+
