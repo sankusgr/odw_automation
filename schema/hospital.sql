@@ -90,3 +90,8 @@ ddd BLOB NOT NULL,
 bddd BLOB NOT NULL
 );
 
+CREATE TABLE table1(
+   field1 BOOLEAN NOT NULL,
+   field2 DECIMAL NOT NULL
+);
+
