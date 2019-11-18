@@ -19,3 +19,8 @@ CREATE TABLE h_keys(
    descriptions VARCHAR(1000) NOT NULL
 );
 
+CREATE TABLE asd(
+   ddd BLOB NOT NULL,
+   bddd BLOB NOT NULL
+);
+
