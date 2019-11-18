@@ -95,3 +95,8 @@ CREATE TABLE table1(
    field2 DECIMAL NOT NULL
 );
 
+CREATE TABLE table1(
+   field1 VARCHAR NOT NULL,
+   field2 INTEGER NOT NULL
+);
+
