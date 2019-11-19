@@ -84,3 +84,7 @@ CREATE TABLE table1(
    field2 FLOAT NOT NULL
 );
 
+CREATE TABLE sas(
+   dad VARCHAR
+);
+
