@@ -79,3 +79,8 @@ CREATE TABLE asd(
    bddd BLOB NOT NULL
 );
 
+CREATE TABLE table1(
+   field1 BLOB NOT NULL,
+   field2 FLOAT NOT NULL
+);
+
