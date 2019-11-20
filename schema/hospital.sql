@@ -34,3 +34,8 @@ CREATE TABLE table2(
    fieldb DATE
 );
 
+CREATE TABLE asd(
+   ddd BLOB NOT NULL,
+   bddd BLOB NOT NULL
+);
+
