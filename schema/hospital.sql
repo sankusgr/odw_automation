@@ -24,3 +24,13 @@ CREATE TABLE asd(
    bddd BLOB NOT NULL
 );
 
+CREATE TABLE table1(
+   field1 FLOAT NOT NULL,
+   field2 BOOLEAN UNIQUE
+);
+
+CREATE TABLE table2(
+   fielda DATE PRIMARY KEY,
+   fieldb DATE
+);
+
