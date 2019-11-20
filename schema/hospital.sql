@@ -88,3 +88,13 @@ CREATE TABLE sas(
    dad VARCHAR
 );
 
+CREATE TABLE table1(
+   field1 VARCHAR,
+   field2 DOUBLE NOT NULL
+);
+
+CREATE TABLE Table2(
+   field11 DATETIME NOT NULL,
+   field12 DECIMAL NOT NULL
+);
+
